@@ -1,10 +1,10 @@
 # HCL Tech Mini Embedded Project
-This is my Mini Project on STM32F405 custom board to describe some function of a car
+This is my Mini Project on STM32F405 custom board to describe some functions of a car
 
-## This file include:
+## This project include:
 - STM32CubeIDE project.
 - Proteus simulation project.
-- A Document of the project.
+- A document of the project.
 
 ##	Project Requirement
 - GPIO as Digital Output (interface with on onboard LEDs).
