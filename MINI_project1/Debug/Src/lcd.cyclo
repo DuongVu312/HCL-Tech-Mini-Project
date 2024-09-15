@@ -1,0 +1,9 @@
+../Src/lcd.c:20:6:SetOutput	1
+../Src/lcd.c:26:6:SetBit	1
+../Src/lcd.c:31:6:ClrBit	1
+../Src/lcd.c:36:6:CplBit	1
+../Src/lcd.c:41:6:DelayLcd	2
+../Src/lcd.c:47:6:LcdInit	1
+../Src/lcd.c:65:6:LcdFxn	11
+../Src/lcd.c:127:6:lprint	3
+../Src/lcd.c:141:6:aprint	1

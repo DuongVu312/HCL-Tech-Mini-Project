@@ -1,0 +1,5 @@
+../Src/main.c:62:5:main	24	static
+../Src/main.c:138:13:handleSW1	64	static
+../Src/main.c:152:13:handleSW2	80	static
+../Src/main.c:191:13:handleSW3	112	static
+../Src/main.c:225:13:handleSW4	64	static

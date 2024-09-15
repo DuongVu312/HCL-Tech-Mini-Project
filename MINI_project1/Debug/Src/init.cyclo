@@ -1,0 +1,13 @@
+../Src/init.c:22:6:setMODE	1
+../Src/init.c:27:6:setPULL	1
+../Src/init.c:32:6:setALT	2
+../Src/init.c:43:6:initTIM3	1
+../Src/init.c:54:6:tim3_dutycycle	5
+../Src/init.c:75:6:usart2_config	1
+../Src/init.c:90:6:writeDataUSART	3
+../Src/init.c:97:6:switchInit	1
+../Src/init.c:112:6:LEDInit	1
+../Src/init.c:126:6:buzzerInit	1
+../Src/init.c:131:6:adc_init	1
+../Src/init.c:144:10:adc_read	2
+../Src/init.c:151:6:delay_ms	3

@@ -1,0 +1,5 @@
+../Src/main.c:62:5:main	17
+../Src/main.c:138:13:handleSW1	2
+../Src/main.c:152:13:handleSW2	7
+../Src/main.c:191:13:handleSW3	4
+../Src/main.c:225:13:handleSW4	4
